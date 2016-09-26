@@ -1,2 +1,0 @@
-# BasicStructure
-Android Structure
